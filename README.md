@@ -15,8 +15,8 @@ Data mining project to classify text data as true or fake news using natural lan
   - Packages:
      Numpy, Pandas, Matplotlib, NLTK, Sklearn, TextBlob, WordCloud
   - Make sure lines in Imports are uncommented: 
-    - # nltk.download('wordnet')
-    - # nltk.download('omw-1.4')
+    - nltk.download('wordnet')
+    - nltk.download('omw-1.4')
    
 ## Instructions
 - Make sure requirements are installed.
